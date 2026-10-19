@@ -105,6 +105,8 @@ Abra o arquivo `.github/workflows/publicar-site.yml` (é a "receita" do robô) e
 - onde estão as **3 regras**;
 - a linha que diz que a publicação **só acontece se a verificação passar** (procure `needs`).
 
+## Alterar a cor do botão para marrom bombom#1
+
 ---
 
 ## 🆘 Deu problema?
